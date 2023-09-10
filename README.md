@@ -1,6 +1,5 @@
 # Calculator_App
 
-![GitHub](https://img.shields.io/github/license/MrAkash920/Calculator_App)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MrAkash920/Calculator_App)
 ![GitHub issues](https://img.shields.io/github/issues/MrAkash920/Calculator_App)
 ![GitHub stars](https://img.shields.io/github/stars/MrAkash920/Calculator_App?style=social)
