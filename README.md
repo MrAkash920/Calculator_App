@@ -4,6 +4,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/MrAkash920/Calculator_App)
 ![GitHub stars](https://img.shields.io/github/stars/MrAkash920/Calculator_App?style=social)
 
+[Demo Link](https://mycalculator.streamlit.app/)
+
 
 ## Table of Contents
 - [About](#about)
