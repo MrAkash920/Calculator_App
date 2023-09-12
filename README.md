@@ -65,4 +65,4 @@ For questions or feedback, you can reach out to the project owner:
 
 Akash Singh
 singhakashcu@gmail.com
-Project Link: https://github.com/MrAkash92/Calculator_App
+Project Link: https://github.com/MrAkash920/Calculator_App
